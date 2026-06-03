@@ -1,4 +1,5 @@
 # Sprint On Land Mod - Subnautica 2
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 **Sprint On Land** is a simple yet essential quality-of-life mod for Subnautica 2. While the game naturally lets you glide through the water, walking on land and inside bases can feel sluggish. This mod allows you to sprint on dry land, dramatically improving your traversal speed when exploring islands or large bases.
@@ -25,6 +26,9 @@ It features a smart, dynamic footstep audio throttle to prevent audio spam when 
 ## Repository Guidelines
 - **Conventional Commits:** All commits and pull requests must follow the [Conventional Commits](https://www.conventionalcommits.org/) specification.
 - **AI Tool Usage:** You are welcome to use other AI tools for development, but please ensure you credit them in this README.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
 - [leegaain (filipe.cauduro)](https://github.com/leegaain) - Creator
