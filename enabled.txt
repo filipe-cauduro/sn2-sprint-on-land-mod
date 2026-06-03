@@ -1,0 +1,4 @@
+# SprintOnLandMod enabled
+This file is needed so this mod is enabled.
+If you want to force disable this mod from even loading, delete this file.
+There is a disable toggle option on Scripts/config.lua or S2ModSettings Sprint On Land Mod menu.
